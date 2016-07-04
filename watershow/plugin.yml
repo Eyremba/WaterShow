@@ -1,0 +1,5 @@
+name: WaterShow
+author: _deurklink_
+version: 1.1
+
+main: nl._deurklink_.watershow.Main
